@@ -1,0 +1,4 @@
+C:\Users\Tony\Desktop\PROJECT\CS P4\UNITTESTING\UNITTESTING\obj\Debug\UNITTESTING.csprojAssemblyReference.cache
+C:\Users\Tony\Desktop\PROJECT\CS P4\UNITTESTING\UNITTESTING\obj\Debug\UNITTESTING.Properties.Resources.resources
+C:\Users\Tony\Desktop\PROJECT\CS P4\UNITTESTING\UNITTESTING\obj\Debug\UNITTESTING.csproj.GenerateResource.cache
+C:\Users\Tony\Desktop\PROJECT\CS P4\UNITTESTING\UNITTESTING\obj\Debug\UNITTESTING.csproj.CoreCompileInputs.cache
