@@ -18,7 +18,7 @@ namespace DepositTEST
 
             Assert.IsTrue(account.Balance == startingBalance + depositAmount);
         }
-
+            
         [TestMethod]
         public void DoesNotAddToBalance()
         {

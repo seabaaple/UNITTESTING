@@ -1,0 +1,17 @@
+C:\Users\Tony\Desktop\PROJECT\CS P4\UNITTESTING\UnitTestProject2\obj\Debug\WithdrawTest.csprojAssemblyReference.cache
+C:\Users\Tony\Desktop\PROJECT\CS P4\UNITTESTING\UnitTestProject2\obj\Debug\WithdrawTest.csproj.CoreCompileInputs.cache
+C:\Users\Tony\Desktop\PROJECT\CS P4\UNITTESTING\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tony\Desktop\PROJECT\CS P4\UNITTESTING\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tony\Desktop\PROJECT\CS P4\UNITTESTING\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tony\Desktop\PROJECT\CS P4\UNITTESTING\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+C:\Users\Tony\Desktop\PROJECT\CS P4\UNITTESTING\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+C:\Users\Tony\Desktop\PROJECT\CS P4\UNITTESTING\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tony\Desktop\PROJECT\CS P4\UNITTESTING\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tony\Desktop\PROJECT\CS P4\UNITTESTING\UnitTestProject2\bin\Debug\UNITTESTING.exe
+C:\Users\Tony\Desktop\PROJECT\CS P4\UNITTESTING\UnitTestProject2\bin\Debug\UNITTESTING.pdb
+C:\Users\Tony\Desktop\PROJECT\CS P4\UNITTESTING\UnitTestProject2\bin\Debug\UNITTESTING.exe.config
+C:\Users\Tony\Desktop\PROJECT\CS P4\UNITTESTING\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tony\Desktop\PROJECT\CS P4\UNITTESTING\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tony\Desktop\PROJECT\CS P4\UNITTESTING\UnitTestProject2\obj\Debug\WithdrawTest.csproj.CopyComplete
+C:\Users\Tony\Desktop\PROJECT\CS P4\UNITTESTING\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+C:\Users\Tony\Desktop\PROJECT\CS P4\UNITTESTING\UnitTestProject2\obj\Debug\UnitTestProject2.pdb

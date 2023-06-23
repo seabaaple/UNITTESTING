@@ -25,5 +25,5 @@ namespace UNITTESTING
 
         public abstract bool Withdraw(double amount);
     }
-}
+
 }
